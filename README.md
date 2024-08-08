@@ -17,5 +17,5 @@ This repository contains a Python program for facial emotion recognition. It uti
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/multiCNN_Emotion-Recognition.git
+   git clone https://github.com/ajayvirss15/multiCNN_Emotion-Recognition.git
    cd multiCNN_Emotion-Recognition
